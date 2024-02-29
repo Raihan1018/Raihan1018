@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Raihan</h1>
-<h3 align="center">👉 Raihan Uddin Ahmed 🎓 Bachelor of Science in Electrical and Electronic engineering (BSc in EEE)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raihan1018&label=Profile%20views&color=0e75b6&style=flat" alt="raihan1018" /> </p>
 
