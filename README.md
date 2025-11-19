@@ -2,9 +2,7 @@
 
 ### MERN Stack Developer | Passionate About Building Modern Web Applications
 
-<p align="right">
- <img src="https://komarev.com/ghpvc/?username=Raihan1018&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+
 
 <p align="center">
   <img src="img/Raihan.png" alt="cover image" />
@@ -26,14 +24,14 @@
 
 ## 🧑‍💻 About Me
 
-I’m a **MERN Stack Developer** based in **Dhaka, Bangladesh**, passionate about creating fast, scalable, and user-friendly web applications.  
+I’m a **MERN Stack Developer** , passionate about creating fast, scalable, and user-friendly web applications.  
 I love turning ideas into real digital products with clean UI/UX, efficient backend systems, and modern development practices.
 
 ---
 
 ## 🎯 My Goals
 
-- Become a **Professional Frontend Web Developer**
+- Become a **Professional Full Stack Developer**
 - Build visually appealing and high-performance web applications
 - Grow into a full-stack MERN developer with strong backend expertise
 
@@ -60,6 +58,10 @@ I love turning ideas into real digital products with clean UI/UX, efficient back
 ---
 
 ## 📊 GitHub Analytics
+
+<p align="right">
+ <img src="https://komarev.com/ghpvc/?username=Raihan1018&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Raihan1018&show_icons=true&theme=default" />
