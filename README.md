@@ -1,4 +1,5 @@
 # 🚀 Hi, I'm **Raihan**
+
 ### MERN Stack Developer | Passionate About Building Modern Web Applications
 
 <p align="right">
@@ -6,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="img/cover.png" alt="cover image" />
+  <img src="img/Raihan.png" alt="cover image" />
 </p>
 
 <p align="center">
@@ -33,7 +34,7 @@ I love turning ideas into real digital products with clean UI/UX, efficient back
 ## 🎯 My Goals
 
 - Become a **Professional Frontend Web Developer**
-- Build visually appealing and high-performance web applications  
+- Build visually appealing and high-performance web applications
 - Grow into a full-stack MERN developer with strong backend expertise
 
 ---
@@ -41,15 +42,19 @@ I love turning ideas into real digital products with clean UI/UX, efficient back
 ## 🛠️ Tech Stack
 
 ### **Tools**
+
 <img src="https://skillicons.dev/icons?i=vscode,github,git,figma,postman,vercel,npm" />
 
 ### **Backend**
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 
 ### **Frontend**
+
 <img src="https://skillicons.dev/icons?i=javascript,react,html,css,tailwind" />
 
 ### **Currently Learning**
+
 <img src="https://skillicons.dev/icons?i=ts,nextjs,prisma,docker,go,postgres" />
 
 ---
@@ -87,14 +92,10 @@ I love turning ideas into real digital products with clean UI/UX, efficient back
 ## 💬 Let's Connect
 
 - 📧 Email: **ahmedraihan1018@gmail.com**
-- 🌐 Portfolio: Coming Soon  
-- 🔗 LinkedIn: Coming Soon  
+- 🔗 LinkedIn: **https://www.linkedin.com/in/raihan1018/**
 
 ---
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </p>
-
-
-
