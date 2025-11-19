@@ -93,7 +93,8 @@ I love turning ideas into real digital products with clean UI/UX, efficient back
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?theme=radical" alt="dev quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </p>
+
 
 
