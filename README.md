@@ -92,6 +92,7 @@ I love turning ideas into real digital products with clean UI/UX, efficient back
 ## 💬 Let's Connect
 
 - 📧 Email: **ahmedraihan1018@gmail.com**
+<!-- - 🌐 Portfolio: Coming Soon -->
 - 🔗 LinkedIn: **https://www.linkedin.com/in/raihan1018/**
 
 ---
