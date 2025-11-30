@@ -59,14 +59,10 @@ I love turning ideas into real digital products with clean UI/UX, efficient back
 
 ## 📊 GitHub Analytics
 
-<p align="right">
- <img src="https://komarev.com/ghpvc/?username=Raihan1018&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Raihan1018&show_icons=true&theme=default" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Raihan1018" />
-</p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raihan1018&" alt="raihan1018" /></p>
+
 
 ---
 
