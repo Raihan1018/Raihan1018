@@ -71,7 +71,7 @@ I love turning ideas into real digital products with clean UI/UX, efficient back
 ---
 
 ## 📊 GitHub Analytics
-## 📊 GITHUB STATS -
+
 
 
 ![Raihan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raihan1018&custom_title=Raihan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
@@ -108,11 +108,6 @@ I love turning ideas into real digital products with clean UI/UX, efficient back
 
 ---
 
-## 🚀 Most Used Languages
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Raihan1018&show_icons=true&layout=compact" />
-</p>
 
 ---
 
