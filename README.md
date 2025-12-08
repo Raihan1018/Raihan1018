@@ -8,6 +8,19 @@
   <img src="img/Raihan.png" alt="cover image" />
 </p>
 
+
+<h2 align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=14d8c1&center=true&vCenter=true&width=600&lines=Hi%2C+I+am+Raihan!;Full+Stack+Web+Developer;MERN+Stack+Developer;React+JS+Developer;Next+JS+Developer;Self+Learner" 
+    alt="Typing Animation" 
+  />
+</h2>
+
+
+
+
+
+
 <p align="center">
   <a href="mailto:ahmedraihan1018@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -58,10 +71,26 @@ I love turning ideas into real digital products with clean UI/UX, efficient back
 ---
 
 ## 📊 GitHub Analytics
+## 📊 GITHUB STATS -
 
 
+![Raihan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raihan1018&custom_title=Raihan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raihan1018&" alt="raihan1018" /></p>
+<p align="center">
+  <a href="https://github.com/Raihan1018">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raihan1018&theme=radical" alt="Raihan's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/Raihan1018"><img alt="Raihan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Raihan1018&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Raihan1018"><img alt="Raihan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Raihan1018&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+<br/>
+<br/>
+
 
 
 ---
