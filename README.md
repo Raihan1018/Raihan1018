@@ -37,8 +37,19 @@
 
 ## 🧑‍💻 About Me
 
-I’m a **MERN Stack Developer** , passionate about creating fast, scalable, and user-friendly web applications.  
-I love turning ideas into real digital products with clean UI/UX, efficient backend systems, and modern development practices.
+👋 Hi, I’m a Full Stack Developer skilled in React, Next.js, Node.js, Express, and MongoDB.
+
+I enjoy building responsive and user-friendly applications from both the frontend and backend.
+
+My goal is to grow as a developer by contributing to meaningful projects & continuously learning new technologies.
+
+📩 Let’s connect if you're:
+
+A tech company hiring skilled developers
+
+A developer gearing up for your next big opportunity
+
+📬 ahmedraihan1018@gmail.com | 📞 +8801611642648
 
 ---
 
