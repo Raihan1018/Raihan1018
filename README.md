@@ -2,12 +2,9 @@
 
 ### MERN Stack Developer | Passionate About Building Modern Web Applications
 
-
-
 <p align="center">
   <img src="img/Raihan.png" alt="cover image" />
 </p>
-
 
 <h2 align="center">
   <img 
@@ -16,13 +13,9 @@
   />
 </h2>
 
-
-
-
-
-
 <p align="center">
-  <a href="mailto:ahmedraihan1018@gmail.com">
+  <a href="mailto:ahmedraihan.dev@gmail.com
+">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/raihan1018/" target="_blank">
@@ -49,7 +42,7 @@ A tech company hiring skilled developers
 
 A developer gearing up for your next big opportunity
 
-📬 ahmedraihan1018@gmail.com | 📞 +8801611642648
+📬 ahmedraihan.dev@gmail.com | 📞 +8801611642648
 
 ---
 
@@ -83,8 +76,6 @@ A developer gearing up for your next big opportunity
 
 ## 📊 GitHub Analytics
 
-
-
 ![Raihan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raihan1018&custom_title=Raihan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <p align="center">
@@ -102,8 +93,6 @@ A developer gearing up for your next big opportunity
 <br/>
 <br/>
 
-
-
 ---
 
 ## 🔧 Technologies I Work With
@@ -119,12 +108,11 @@ A developer gearing up for your next big opportunity
 
 ---
 
-
 ---
 
 ## 💬 Let's Connect
 
-- 📧 Email: **ahmedraihan1018@gmail.com**
+- 📧 Email: **ahmedraihan.dev@gmail.com**
 <!-- - 🌐 Portfolio: Coming Soon -->
 - 🔗 LinkedIn: **https://www.linkedin.com/in/raihan1018/**
 
